@@ -83,6 +83,7 @@ button {
 .restaurant-name {
   margin-bottom: 1rem;
   font-size: 7rem;
+  padding: 1rem;
 }
 
 .button-nav {
